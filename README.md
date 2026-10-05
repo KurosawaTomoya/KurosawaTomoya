@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm KurosawaTomoya
+
+🇻🇳 **Vietnamese developer who loves anime and Minecraft.**
+
+> 🎭 "Kurosawa Tomoya" is a made-up name inspired by my love for anime.
+
+### 🌐 Find Me
+
+[![Discord](https://img.shields.io/badge/Discord-KurosawaTomoya-5865F2?logo=discord&logoColor=white)](https://discord.com/users/kurosawatomoya)
+
+[![GitHub](https://img.shields.io/badge/GitHub-KurosawaTomoya-black?logo=github)](https://github.com/KurosawaTomoya)
 
 <!--
 **KurosawaTomoya/KurosawaTomoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

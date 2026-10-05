@@ -2,7 +2,7 @@
 
 🇻🇳 **Vietnamese developer who loves anime and Minecraft.**
 
-> 🎭 "Kurosawa Tomoya" is a nickname name inspired by my love for anime.
+> 🎭 "Kurosawa Tomoya" is a nickname inspired by my love for anime.
 
 ### 🌐 Find Me
 

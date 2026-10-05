@@ -1,8 +1,8 @@
-# 👋 Hi, I'm KurosawaTomoya
+# 👋 Hi, I'm Kurosawa Tomoya
 
 🇻🇳 **Vietnamese developer who loves anime and Minecraft.**
 
-> 🎭 "Kurosawa Tomoya" is a made-up name inspired by my love for anime.
+> 🎭 "Kurosawa Tomoya" is a nickname name inspired by my love for anime.
 
 ### 🌐 Find Me
 
